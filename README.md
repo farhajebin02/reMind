@@ -77,7 +77,6 @@ This is the final version of the Remind app running on an Android device.
 
 Project Demo
 Video
-[<!-- Failed to upload "WhatsApp Video 2025-02-02 at 10.32.25_fb5b1d65.mp4" -->
-![Image](https://github.com/user-attachments/assets/9df81909-538f-45fd-9a87-8a11a47d6926)]
+(https://drive.google.com/file/d/1nOhKxFDXaY7fEqEoz0fI2ArAGuUVSld3/view?usp=sharing)
 This video demonstrates the functionalities of the Remind app
 
