@@ -60,20 +60,13 @@ Screenshots
 
 
 ![![Image](https://github.com/user-attachments/assets/36175d8d-e633-4fe1-92b2-ae19b9e33aec)
-](Add screenshot 2 here)
-
-
-![Screenshot3](Add screenshot 3 here)
-This screenshot shows the reminders screen with an upcoming medication reminder.
+]
 
 
 
 For Hardware:
 No hardware-specific documentation required for this project.
 
-
-![Final](Add photo of the final app interface here)
-This is the final version of the Remind app running on an Android device.
 
 Project Demo
 Video
