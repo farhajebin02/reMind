@@ -59,7 +59,8 @@ Screenshots
 ![![Image](https://github.com/user-attachments/assets/9df81909-538f-45fd-9a87-8a11a47d6926)](Add screenshot 1 here)
 
 
-![Screenshot2](Add screenshot 2 here)
+![![Image](https://github.com/user-attachments/assets/36175d8d-e633-4fe1-92b2-ae19b9e33aec)
+](Add screenshot 2 here)
 
 
 ![Screenshot3](Add screenshot 3 here)
